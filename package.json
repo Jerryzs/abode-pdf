@@ -1,0 +1,17 @@
+{
+  "name": "abode-pdf",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "main": "index.ts",
+  "scripts": {
+  },
+  "repository": "github:Jerryzs/abode-pdf",
+  "author": "Jerry <zhangs@winchesterthurston.org>",
+  "contributors": [
+    "Jonah <kellerj@winchesterthurston.org>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Jerryzs/abode-pdf",
+  "bugs": "https://github.com/Jerryzs/abode-pdf/issues"
+}
